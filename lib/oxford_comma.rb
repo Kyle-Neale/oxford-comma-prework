@@ -13,5 +13,6 @@ def oxford_comma(array)
         sentence += "#{i}, "
       end
     end
+  end
   return sentence
 end
